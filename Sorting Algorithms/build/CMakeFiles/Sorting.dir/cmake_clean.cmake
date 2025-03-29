@@ -1,10 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Sorting.dir/Quick_Sort.cpp.obj"
-  "CMakeFiles/Sorting.dir/Quick_Sort.cpp.obj.d"
-  "Sorting.exe"
-  "Sorting.exe.manifest"
+  "CMakeFiles/Sorting.dir/link.d"
+  "CMakeFiles/Sorting.dir/Counting_Sort.cpp.o"
+  "CMakeFiles/Sorting.dir/Counting_Sort.cpp.o.d"
+  "Sorting"
   "Sorting.pdb"
-  "libSorting.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

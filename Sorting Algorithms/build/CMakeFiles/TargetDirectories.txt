@@ -1,3 +1,3 @@
-C:/Users/lmartin/Desktop/Sorting Algorithms/build/CMakeFiles/Sorting.dir
-C:/Users/lmartin/Desktop/Sorting Algorithms/build/CMakeFiles/edit_cache.dir
-C:/Users/lmartin/Desktop/Sorting Algorithms/build/CMakeFiles/rebuild_cache.dir
+/home/logan/git/Sorting_Algorithms/Sorting Algorithms/build/CMakeFiles/Sorting.dir
+/home/logan/git/Sorting_Algorithms/Sorting Algorithms/build/CMakeFiles/edit_cache.dir
+/home/logan/git/Sorting_Algorithms/Sorting Algorithms/build/CMakeFiles/rebuild_cache.dir

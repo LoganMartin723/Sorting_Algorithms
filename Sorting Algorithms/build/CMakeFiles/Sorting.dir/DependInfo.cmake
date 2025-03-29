@@ -8,7 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/lmartin/Desktop/Sorting Algorithms/Quick_Sort.cpp" "CMakeFiles/Sorting.dir/Quick_Sort.cpp.obj" "gcc" "CMakeFiles/Sorting.dir/Quick_Sort.cpp.obj.d"
+  "/home/logan/git/Sorting_Algorithms/Sorting Algorithms/Counting_Sort.cpp" "CMakeFiles/Sorting.dir/Counting_Sort.cpp.o" "gcc" "CMakeFiles/Sorting.dir/Counting_Sort.cpp.o.d"
+  "" "Sorting" "gcc" "CMakeFiles/Sorting.dir/link.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

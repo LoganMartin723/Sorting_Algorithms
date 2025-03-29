@@ -1,8 +1,8 @@
 [
 {
-  "directory": "C:/Users/lmartin/Desktop/Sorting Algorithms/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Sorting.dir\\Quick_Sort.cpp.obj -c \"C:\\Users\\lmartin\\Desktop\\Sorting Algorithms\\Quick_Sort.cpp\"",
-  "file": "C:/Users/lmartin/Desktop/Sorting Algorithms/Quick_Sort.cpp",
-  "output": "CMakeFiles/Sorting.dir/Quick_Sort.cpp.obj"
+  "directory": "/home/logan/git/Sorting_Algorithms/Sorting Algorithms/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Sorting.dir/Counting_Sort.cpp.o -c \"/home/logan/git/Sorting_Algorithms/Sorting Algorithms/Counting_Sort.cpp\"",
+  "file": "/home/logan/git/Sorting_Algorithms/Sorting Algorithms/Counting_Sort.cpp",
+  "output": "CMakeFiles/Sorting.dir/Counting_Sort.cpp.o"
 }
 ]
